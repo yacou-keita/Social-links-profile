@@ -23,7 +23,7 @@ Réaliser ce projet sans recourir à l'utilisation de frameworks ni de biblioth�
 
 ### Résultat
 
-- Solution : [Visiter](https://yacou-keita.github.io/Recipe-page/)
+- Solution : [Visiter](https://yacou-keita.github.io/Social-links-profile/)
 
 ### Technologies
 
